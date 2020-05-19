@@ -16,6 +16,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "connect4-core": "git+https://github.com/dkruythoff/connect4-core.git",
     "sirv-cli": "^0.4.4"
   }
 }
